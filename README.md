@@ -101,15 +101,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/your-portfolio](https://github.com/yourusername/your-portfolio)
-
-## 🙏 Acknowledgments
-
-- [React Documentation](https://reactjs.org/docs)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Framer Motion Documentation](https://www.framer.com/motion/)
-- [Unsplash](https://unsplash.com/) - Images
